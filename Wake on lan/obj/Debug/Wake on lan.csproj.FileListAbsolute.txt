@@ -1,0 +1,7 @@
+C:\Users\Fernando\source\repos\Wake on lan\Wake on lan\bin\Debug\Wake on lan.exe.config
+C:\Users\Fernando\source\repos\Wake on lan\Wake on lan\bin\Debug\Wake on lan.exe
+C:\Users\Fernando\source\repos\Wake on lan\Wake on lan\bin\Debug\Wake on lan.pdb
+C:\Users\Fernando\source\repos\Wake on lan\Wake on lan\obj\Debug\Wake on lan.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\Wake on lan\Wake on lan\obj\Debug\Wake on lan.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\Wake on lan\Wake on lan\obj\Debug\Wake on lan.exe
+C:\Users\Fernando\source\repos\Wake on lan\Wake on lan\obj\Debug\Wake on lan.pdb
